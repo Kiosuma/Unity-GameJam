@@ -1,2 +1,2 @@
 # Unity-GameJam
-Répertoire pour le runner platformer unity e ngame jam tabarnak
+Répertoire pour le runner platformer unity en game jam tabarnak
